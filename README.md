@@ -35,7 +35,10 @@
 **Технологии:** Макет табличного документа, запрос с соединением, управляемые формы
 
 **Скриншоты:** `docs/screenshots/print-form.png`
-- [Выбор документов](docs/screenshots/ВыборДокументов.оpg)
+- [Выбор документов](docs/screenshots/selection_of_documents.jpg)
+- [Печатная форма с логотипом](docs/screenshots/printing_form_with_logo.jpg)
+- [Расшифровка: карточка товара](product_breakdown.jpg)
+- [Расшифровка: форма контрагента](docs/screenshotsbreakdown_by_counterparty.jpg)
 ---
 
 ### 2. Иерархический список товаров
