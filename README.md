@@ -37,7 +37,7 @@
 **Скриншоты:**
 - [Выбор документов](docs/screenshots/selection_of_documents.jpg)
 - [Печатная форма с логотипом](docs/screenshots/printing_form_with_logo.jpg)
-- [Расшифровка: карточка товара](product_breakdown.jpg)
+- [Расшифровка: карточка товара](docs/screenshots/product_breakdown.jpg)
 - [Расшифровка: форма контрагента](docs/screenshots/breakdown_by_counterparty.jpg)
 - [📁 Посмотреть все скриншоты выгрузки в Excel](docs/screenshots/export_to_Excel/)
 ---
