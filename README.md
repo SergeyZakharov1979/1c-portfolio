@@ -39,7 +39,7 @@
 - [Печатная форма с логотипом](docs/screenshots/printing_form_with_logo.jpg)
 - [Расшифровка: карточка товара](product_breakdown.jpg)
 - [Расшифровка: форма контрагента](docs/screenshots/breakdown_by_counterparty.jpg)
-- [Выгрузка в Excel файл](docs/screenshots/еxport_to_Excel_file)
+- [📁 Посмотреть все скриншоты выгрузки в Excel](docs/screenshots/export_to_Excel/)
 ---
 
 ### 2. Иерархический список товаров
