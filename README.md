@@ -34,7 +34,7 @@
 
 **Технологии:** Макет табличного документа, запрос с соединением, управляемые формы
 
-**Скриншоты:** `docs/screenshots/print-form.png`
+**Скриншоты:**
 - [Выбор документов](docs/screenshots/selection_of_documents.jpg)
 - [Печатная форма с логотипом](docs/screenshots/printing_form_with_logo.jpg)
 - [Расшифровка: карточка товара](product_breakdown.jpg)
