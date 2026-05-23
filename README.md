@@ -61,7 +61,7 @@
 - Итоги по строкам, колонкам, общий итог
 
 **Скриншот:**
-- [Отчёт продажи за период](docs/screenshots/sales_report_for_the_period)
+- [Отчёт продажи за период](docs/screenshots/sales_report_for_the_period.jpg)
 
 ---
 
