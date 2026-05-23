@@ -60,7 +60,8 @@
 - Строки — товары, колонки — даты
 - Итоги по строкам, колонкам, общий итог
 
-**Скриншот:** `docs/screenshots/cross-table.png`
+**Скриншот:**
+- [Отчёт продажи за период](docs/screenshots/sales_report_for_the_period)
 
 ---
 
